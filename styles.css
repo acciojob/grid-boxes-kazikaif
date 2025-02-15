@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.grid-item {
+            background-color: green;
+            color: white;
+            text-align: center;
+            font-size: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 2px solid white;
+            height: 100%;
+        }
